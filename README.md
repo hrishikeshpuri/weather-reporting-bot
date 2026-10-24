@@ -1,8 +1,8 @@
 # Weather Reporting Bot
-
+Here is the live link : https://kenlykena.app.n8n.cloud/webhook/8a86d384-6de6-4c14-8bd2-ab7911f6f19a/chat
 n8n chat workflow that looks up the weather for a city and answers with a short description plus a funny suggestion.
 
-Synced from the n8n workflows **Weather Reporting Bot** (`vd2g0Bd4NaMPZyNi`) and **Child Workflow** (`y2IPCdKqCLWwtrFQ`). This is not the Google search chatbot.
+Synced from the n8n workflows **Weather Reporting Bot** (`vd2g0Bd4NaMPZyNi`) and **Child Workflow** (`y2IPCdKqCLWwtrFQ`)
 
 ## What it does
 
